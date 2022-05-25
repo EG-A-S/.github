@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/EG-A-S/.github/54aec690c8072f23122b24b76003c5b8d57e52e5/profile/eg.jpg)
 
 # EG A/S
 
