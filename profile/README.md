@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 # EG A/S
 
 EG delivers Nordic vertical software that enables our customers to move their businesses further.
