@@ -9,4 +9,5 @@ We aim to level the playing field, so any size business can get access to worldc
 
 Our passionate team of employees strive to be the best in their fields while making a lasting impact on the lives of our customers. We stand for a thriving, vibrant tech ecosystem in the Nordics and believe that technology should be used for good.
 
-https://www.linkedin.com/company/eg-as/
+* https://eg.dk
+* https://www.linkedin.com/company/eg-as/
