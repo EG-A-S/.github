@@ -11,3 +11,4 @@ Our passionate team of employees strive to be the best in their fields while mak
 
 * https://eg.dk
 * https://www.linkedin.com/company/eg-as/
+* https://twitter.com/EGnyheder
