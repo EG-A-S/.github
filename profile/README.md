@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/EG-A-S/.github/54aec690c8072f23122b24b76003c5b8d57e52e5/profile/EG-NewTag-Logo.jpg)
+![alt text](https://raw.githubusercontent.com/EG-A-S/.github/main/profile/EG-NewTag-Logo.jpg)
 
 # EG A/S
 
